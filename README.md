@@ -93,7 +93,10 @@ This project represents my journey combining technical analysis, fundamentals, a
 
 ## 📬 Contact / Portfolio
 
-> Feel free to connect or view more projects via my GitHub profile.
+Feel free to connect or view more projects through my social platforms:
 
----
+- 🐙 [GitHub](https://github.com/cacastudymarket)
+- 📸 [Instagram](https://instagram.com/cahyaratry__)
+- 💼 [LinkedIn](https://linkedin.com/in/cahyaratrilukitaputri)
+
 
