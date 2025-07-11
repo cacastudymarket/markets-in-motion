@@ -42,7 +42,7 @@ We analyze:
 | `day1_data_collection.ipynb` | Data scraping & collection |
 | `day2_preprocessing.ipynb` | Merging datasets, labeling events, adding returns & volatility |
 | `day3_eda.ipynb` | Exploratory data analysis & visualization |
-| `day4_comperative_analysis.ipynb` | Comparative analysis of asset reactions |
+| `day4_comparative_analysis.ipynb` | Comparative analysis of asset reactions |
 
 ---
 
@@ -55,7 +55,7 @@ We analyze:
 ### 🔹 Correlation Shift
 - Asset correlations increased after CPI/FOMC events — indicating synchronized market behavior during uncertainty.
 
-### 🔹 Return & Volatility Summary (Example)
+### 🔹 Return & Volatility Summary
 
 | Asset | Avg Return (CPI Day) | Avg Return (FOMC Day) |
 |-------|----------------------|------------------------|
@@ -80,7 +80,7 @@ We analyze:
 - 📄 [Day 1 – Data Collection](./day1_data_collection.ipynb)
 - 📄 [Day 2 – Preprocessing](./day2_preprocessing.ipynb)
 - 📄 [Day 3 – EDA & Visualizations](./day3_eda.ipynb)
-- 📄 [Day 4 – Comparative Analysis](./day4_comperative_analysis.ipynb)
+- 📄 [Day 4 – Comparative Analysis](./day4_comparative_analysis.ipynb)
 
 ---
 
